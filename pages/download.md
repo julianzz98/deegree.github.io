@@ -18,7 +18,7 @@ deegree is distributed as WAR files, and Docker images. Follow these installatio
 
 ## deegree webservices 3.6.9 (stable)
 
-This is the latest stable version (released April 30, 2026).
+This is the latest stable version (released June 2, 2026).
 
 * Docker Image:  
   Download the official Docker Image from Docker Hub. Ready to use container with **OpenJDK 17** and Apache Tomcat 10.1.  
