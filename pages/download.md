@@ -61,7 +61,7 @@ This is the latest stable version (released August 10, 2026) based on deegree co
   Available including drivers for PostgreSQL, Microsoft SQL Server and Oracle Database (suffix `-all`) as well as without drivers (suffix `-nodriver`).  
   [Download WAR](https://repo.deegree.org/#browse/search/maven=attributes.maven2.artifactId%3Ddeegree-ogcapi-webapp-*%20AND%20version%3D2.0.7)
 
-[Changelog](https://github.com/deegree/deegree-ogcapi/releases/tag/deegree-ogcapi-2.0.7) | [User handbook](https://download.deegree.org/ogcapi/documentation/2.0.7/html/) | [Installation](https://github.com/deegree/deegree-ogcapi/blob/main/deegree-ogcapi-documentation/src/main/asciidoc/installation.adoc)
+[Changelog](https://github.com/deegree/deegree-ogcapi/releases/tag/deegree-ogcapi-2.0.7) | [User handbook](https://download.deegree.org/ogcapi/documentation/2.0.7/html/) | [Installation](https://download.deegree.org/ogcapi/documentation/2.0.7/html/#installation)
 
 ## deegree ogcapi 1.3.10 (stable)
 
